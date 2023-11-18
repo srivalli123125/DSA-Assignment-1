@@ -1,4 +1,4 @@
-//1.
+
 function findPairs(arr,target){
     let pairs=[];
     let left=0;
